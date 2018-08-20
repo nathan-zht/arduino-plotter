@@ -1,0 +1,3 @@
+[console_scripts]
+pyAnPlot = source.__main__:main
+

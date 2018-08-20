@@ -1,0 +1,6 @@
+setup.py
+analog_plotter.egg-info/PKG-INFO
+analog_plotter.egg-info/SOURCES.txt
+analog_plotter.egg-info/dependency_links.txt
+analog_plotter.egg-info/entry_points.txt
+analog_plotter.egg-info/top_level.txt

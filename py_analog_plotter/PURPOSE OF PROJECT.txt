@@ -1,0 +1,12 @@
+End Goal:
+To make an arduino based project where analog signals entering the arduino is sent over 
+USB using serial transmission, where it is processed and plotted using a python application.
+
+Purposes of this project:
+1. To refresh my Arduino programming skills
+2. To improve my knowledge arduino hardware
+3. To refresh my python programming skills
+4. To improve my python programming
+5. To learn application oriented programming - how to create a proper python application
+6. To do number 5 with entry points and scripts
+7. To increase my familiarity with OOP - using Python
