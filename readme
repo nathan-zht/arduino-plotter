@@ -1,0 +1,5 @@
+analog plotter for arduino
+
+arduino code in /arduino_code
+full app with setup.py in /analog_plotter
+all in one file python script /original
